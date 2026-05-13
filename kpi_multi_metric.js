@@ -9,9 +9,9 @@
  * Query: 1..N measures (no dimension required).
  *
  * Admin -> Visualizations:
- *   ID: kpi_multi_metric
- *   Label: KPI Multi-Metric Card
- *   Main: https://cdn.jsdelivr.net/gh/martinvelez-harness/looker-viz@main/kpi_multi_metric.js
+ *   ID: heatmap_table
+ *   Label: Heatmap Table
+ *   Main: https://cdn.jsdelivr.net/gh/martinmvelez/looker-viz@main/kpi_multi_metric.js
  */
 
 looker.plugins.visualizations.add({
