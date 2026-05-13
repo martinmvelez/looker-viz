@@ -12,9 +12,9 @@
  *   - Table: uses all measures as columns
  *
  * Admin -> Visualizations:
- *   ID: kpi_summary_card
- *   Label: KPI Summary Card
- *   Main: https://cdn.jsdelivr.net/gh/martinvelez-harness/looker-viz@main/kpi_summary_card.js
+ *   ID: heatmap_table
+ *   Label: Heatmap Table
+ *   Main: https://cdn.jsdelivr.net/gh/martinmvelez/looker-viz@main/kpi_summary_card.js
  */
 
 looker.plugins.visualizations.add({
