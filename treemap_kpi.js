@@ -12,9 +12,9 @@
  *   - Measure               = value (determines rectangle size)
  *
  * Admin -> Visualizations:
- *   ID: treemap_kpi
- *   Label: Treemap KPI
- *   Main: https://cdn.jsdelivr.net/gh/martinvelez-harness/looker-viz@main/treemap_kpi.js
+ *   ID: heatmap_table
+ *   Label: Heatmap Table
+ *   Main: https://cdn.jsdelivr.net/gh/martinmvelez/looker-viz@main/treemap_kpi.js
  */
 
 looker.plugins.visualizations.add({
