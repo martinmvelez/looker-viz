@@ -7,12 +7,10 @@
  *
  * Query: 1 measure (coverage rate). Optional 2nd measure (previous period for variation).
  *
- * manifest.lkml:
- *   visualization: {
- *     id: "coverage_donut"
- *     label: "Coverage Donut"
- *     file: "visualizations/coverage_donut.js"
- *   }
+ * Admin -> Visualizations:
+ *   ID: heatmap_table
+ *   Label: Heatmap Table
+ *   Main: https://cdn.jsdelivr.net/gh/martinmvelez/looker-viz@main/coverage_donut.js
  */
 
 looker.plugins.visualizations.add({
