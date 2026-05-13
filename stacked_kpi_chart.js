@@ -14,9 +14,9 @@
  *   Without:      1 dim (X axis) + 2+ measures (stacks)
  *
  * Admin -> Visualizations:
- *   ID: stacked_kpi_chart
- *   Label: Stacked KPI Chart
- *   Main: https://cdn.jsdelivr.net/gh/martinvelez-harness/looker-viz@main/stacked_kpi_chart.js
+ *   ID: heatmap_table
+ *   Label: Heatmap Table
+ *   Main: https://cdn.jsdelivr.net/gh/martinmvelez/looker-viz@main/stacked_kpi_chart.js
  */
 
 looker.plugins.visualizations.add({
